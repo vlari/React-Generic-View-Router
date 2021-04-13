@@ -66,8 +66,8 @@ const useStyles = makeStyles((theme) => ({
     color: '#FFFFFF',
   },
   navbarItem: {
-    margin: '5px 0px 5px 0px'
-  }
+    margin: '5px 0px 5px 0px',
+  },
 }));
 
 const NavBar = (props) => {
@@ -99,7 +99,7 @@ const NavBar = (props) => {
     {
       icon: FavoriteRoundedIcon,
       text: 'HealthCare',
-      path: '/manager/healthcare',
+      path: '/manager/healthcares',
     },
     {
       icon: StoreRoundedIcon,
@@ -131,7 +131,7 @@ const NavBar = (props) => {
                 to={iconItem.path}
                 activeStyle={{
                   background: theme.palette.primary.main,
-                  color: '#FFFFFF'
+                  color: '#FFFFFF',
                 }}
                 size='medium'
               >

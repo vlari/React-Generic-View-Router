@@ -1,0 +1,339 @@
+{
+  "doctors": [
+    {
+      "id": "604fc35174c7cd16244f17ad",
+      "name": "Dixon Torres",
+      "gender": "male",
+      "specialty": "",
+      "office": "395 Harman Street, Vallonia, Texas, 9296",
+      "phone": "+1 (897) 449-3234"
+    },
+    {
+      "id": "604fc3515b86d2a9837f456e",
+      "name": "Santana Horne",
+      "gender": "male",
+      "specialty": "",
+      "office": "310 Reeve Place, Faywood, North Carolina, 6440",
+      "phone": "+1 (993) 421-2199"
+    },
+    {
+      "id": "604fc3513abc18dd9c68c8b1",
+      "name": "Dejesus Sykes",
+      "gender": "male",
+      "specialty": "",
+      "office": "369 Dorchester Road, Kenwood, South Carolina, 9742",
+      "phone": "+1 (987) 445-3464"
+    },
+    {
+      "id": "604fc351c179a1769c62bd7e",
+      "name": "Clara Bauer",
+      "gender": "female",
+      "specialty": "",
+      "office": "903 Portland Avenue, Manchester, Oregon, 3845",
+      "phone": "+1 (879) 528-2264"
+    },
+    {
+      "id": "604fc351e7df6710ac80a1a6",
+      "name": "Emerson Gamble",
+      "gender": "male",
+      "specialty": "",
+      "office": "609 Fulton Street, Belmont, New Hampshire, 8836",
+      "phone": "+1 (904) 454-2954"
+    },
+    {
+      "id": "604fc35182c7198e3397e916",
+      "name": "Cherie Roy",
+      "gender": "female",
+      "specialty": "",
+      "office": "709 Nelson Street, Lookingglass, Idaho, 6304",
+      "phone": "+1 (821) 447-3977"
+    },
+    {
+      "id": "604fc351e78e13801b534d7f",
+      "name": "Clarice Stuart",
+      "gender": "female",
+      "specialty": "",
+      "office": "740 Senator Street, Waterloo, Missouri, 4412",
+      "phone": "+1 (839) 401-2269"
+    },
+    {
+      "id": "604fc351b1068f63cba5e2d6",
+      "name": "Roseann Alvarez",
+      "gender": "female",
+      "specialty": "",
+      "office": "963 Village Road, Mansfield, Arizona, 1280",
+      "phone": "+1 (818) 493-3166"
+    },
+    {
+      "id": "604fc351ad6b26a01f055e04",
+      "name": "Kaitlin Sandoval",
+      "gender": "female",
+      "specialty": "",
+      "office": "484 Stillwell Place, Sanford, Pennsylvania, 5370",
+      "phone": "+1 (971) 558-3492"
+    }
+  ],
+  "hospitals": [
+    {
+      "id": "6071c4d169c6d13da9f5c58b",
+      "name": "Long Island Community Hospital",
+      "address": "286 Elm Place, Winchester, Oregon, 9214"
+    },
+    {
+      "id": "6071c4d1d0dfe0d3506712e0",
+      "name": "Zucker Hillside Hospital",
+      "address": "504 Coleman Street, Dragoon, Palau, 8036"
+    },
+    {
+      "id": "6071c4d1d0307d8abd13acd4",
+      "name": "A.O. Fox Hospital",
+      "address": "881 Goodwin Place, Bowmansville, Alaska, 1026"
+    },
+    {
+      "id": "6071c4d1f03b75a649c49af8",
+      "name": "Albany Medical Center",
+      "address": "193 Garnet Street, Cumberland, New Jersey, 7482"
+    },
+    {
+      "id": "6071c4d1683dd2031ede30a8",
+      "name": "Adirondack Medical Center - Sarnac Lake",
+      "address": "284 Seagate Terrace, Guilford, Northern Mariana Islands, 387"
+    },
+    {
+      "id": "6071c4d17655008159f7094b",
+      "name": "Alice Hyde Medical Center",
+      "address": "946 Desmond Court, Allison, Louisiana, 9503"
+    },
+    {
+      "id": "6071c4d1edaf78f94aa8ef3e",
+      "name": "Albany Stratton VA Medical Center",
+      "address": "714 Plaza Street, Brownlee, Idaho, 9594"
+    },
+    {
+      "id": "6071c4d1dab309e8b863aab8",
+      "name": "Arms Acres",
+      "address": "899 Concord Street, Nelson, Minnesota, 5468"
+    },
+    {
+      "id": "6071c4d14d61a3d2ae55ce81",
+      "name": "Arnot Ogden Medical Center",
+      "address": "254 Meadow Street, Wiscon, Alabama, 5742"
+    },
+    {
+      "id": "6071c4d1a912c662cc3be536",
+      "name": "Auburn Community Hospital",
+      "address": "520 Milton Street, Adamstown, Illinois, 4514"
+    }
+  ],
+  "healthcares": [
+    { "id": "6071c69f5668632c21e13118", "name": "Mental health care" },
+    { "id": "6071c69f902f3d748ac5760b", "name": "Dental care" },
+    {
+      "id": "6071c69fcdf5ed7d2f6cfbda",
+      "name": "Laboratory and diagnostic care"
+    },
+    { "id": "6071c69fa83cca9ad7a680d8", "name": "Substance abuse treatment" },
+    { "id": "6071c69f389907e871efe1c5", "name": "Preventative care" },
+    {
+      "id": "6071c6fa01e05fb21ff5ee96",
+      "name": "Physical and occupational therapy"
+    },
+    { "id": "6071c6faad88a8e36c10da30", "name": "Nutritional support" },
+    { "id": "6071c6fa1294819978e7de72", "name": "Pharmaceutical care" }
+  ],
+  "drugstores": [
+    {
+      "id": "6071c83390573dc9fad346cd",
+      "name": "ORONOKO",
+      "address": "855 Knickerbocker Avenue, Norvelt, Minnesota, 3124"
+    },
+    {
+      "id": "6071c833912b4f73af1a1441",
+      "name": "ENOMEN",
+      "address": "194 Oriental Court, Bonanza, South Carolina, 6910"
+    },
+    {
+      "id": "6071c83337718268ad2e0b42",
+      "name": "CYTREX",
+      "address": "291 Hendrix Street, Oretta, Puerto Rico, 7382"
+    },
+    {
+      "id": "6071c833c9c973d7fd114042",
+      "name": "ZILLACON",
+      "address": "736 Adler Place, Taft, Palau, 5446"
+    },
+    {
+      "id": "6071c833f639881dee26e10f",
+      "name": "NETROPIC",
+      "address": "924 Mill Road, Foxworth, Tennessee, 4052"
+    },
+    {
+      "id": "6071c8338d320218d8ef17d1",
+      "name": "TYPHONICA",
+      "address": "830 Dinsmore Place, Kingstowne, West Virginia, 9481"
+    },
+    {
+      "id": "6071c833d2f7fd10a2dc2bd2",
+      "name": "TUBESYS",
+      "address": "406 Quentin Street, Condon, Arkansas, 8109"
+    },
+    {
+      "id": "6071c833a00683f94a72d9d9",
+      "name": "FARMEX",
+      "address": "900 Eagle Street, Klagetoh, Oregon, 6276"
+    },
+    {
+      "id": "6071c8333ba0720b5ad30ce7",
+      "name": "ZILPHUR",
+      "address": "502 Hamilton Walk, Needmore, Wisconsin, 7160"
+    }
+  ],
+  "patients": [
+    {
+      "id": "6071c8abf10e7ead526e8d26",
+      "name": "Ruby Trevino",
+      "gender": "female",
+      "address": "663 Debevoise Street, Trucksville, North Carolina, 4715"
+    },
+    {
+      "id": "6071c8ab2058da92b96c16db",
+      "name": "Elaine Dale",
+      "gender": "female",
+      "address": "422 Hicks Street, Tecolotito, Ohio, 7078"
+    },
+    {
+      "id": "6071c8ab87befb99787522ec",
+      "name": "Booker Patterson",
+      "gender": "male",
+      "address": "514 Williams Court, Torboy, Florida, 2950"
+    },
+    {
+      "id": "6071c8abe1a9f540f74d1595",
+      "name": "Marshall Cooley",
+      "gender": "male",
+      "address": "109 Taylor Street, Belleview, Wyoming, 1852"
+    },
+    {
+      "id": "6071c8ab62a1a99faeb1f65f",
+      "name": "Woodard Franco",
+      "gender": "male",
+      "address": "762 Delmonico Place, Utting, Oregon, 413"
+    },
+    {
+      "id": "6071c8abf517ced3cc7f87dd",
+      "name": "Gillespie Henry",
+      "gender": "male",
+      "address": "530 McKinley Avenue, Orviston, Washington, 8495"
+    },
+    {
+      "id": "6071c8abb76b421e7d1e4dc2",
+      "name": "Jacklyn Blackburn",
+      "gender": "female",
+      "address": "476 Cobek Court, Lavalette, Utah, 486"
+    },
+    {
+      "id": "6071c8ab6fb2fcab1697ccf4",
+      "name": "Ferrell Hines",
+      "gender": "male",
+      "address": "498 Monitor Street, Hardyville, Arkansas, 6468"
+    },
+    {
+      "id": "6071c8abacbc1d67fc2a834c",
+      "name": "Lula Jimenez",
+      "gender": "female",
+      "address": "911 Wolcott Street, Clarence, Northern Mariana Islands, 3048"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "6071cbcc0b04f5277f796b2b",
+      "patient": "Brandie James",
+      "doctor": "Annie Meadows",
+      "email": "anniemeadows@zilphur.com",
+      "phone": "+1 (934) 423-3094",
+      "hopitaladdress": "405 Garden Street, Heil, Wyoming, 5207",
+      "date": "1/2/2020"
+    },
+    {
+      "id": "6071cbcc6050361bc4570e96",
+      "patient": "Lillian Mclaughlin",
+      "doctor": "Susie Harmon",
+      "email": "susieharmon@zilphur.com",
+      "phone": "+1 (869) 407-3341",
+      "hopitaladdress": "183 Ridge Court, Falconaire, New York, 2604",
+      "date": "4/2/2020"
+    },
+    {
+      "id": "6071cbccae2ab85407a906a7",
+      "patient": "Chris Tanner",
+      "doctor": "Middleton Vega",
+      "email": "middletonvega@zilphur.com",
+      "phone": "+1 (871) 421-2849",
+      "hopitaladdress": "852 Winthrop Street, Hall, Maryland, 2365",
+      "date": "6/6/2020"
+    },
+    {
+      "id": "6071cbcc5099c8b21efb118b",
+      "patient": "Lois Ochoa",
+      "doctor": "Serena Mcgowan",
+      "email": "serenamcgowan@zilphur.com",
+      "phone": "+1 (928) 590-3704",
+      "hopitaladdress": "480 Colby Court, Reinerton, Vermont, 3433",
+      "date": "1/7/2020"
+    },
+    {
+      "id": "6071cbcc0570b68e2a4aac19",
+      "patient": "Elsie Callahan",
+      "doctor": "Fields Foley",
+      "email": "fieldsfoley@zilphur.com",
+      "phone": "+1 (929) 415-3452",
+      "hopitaladdress": "995 Gardner Avenue, Lydia, South Carolina, 3618",
+      "date": "3/8/2020"
+    },
+    {
+      "id": "6071cbccfdf24c7bbd9bb340",
+      "patient": "Saunders Jarvis",
+      "doctor": "Lorrie Stephens",
+      "email": "lorriestephens@zilphur.com",
+      "phone": "+1 (895) 558-3298",
+      "hopitaladdress": "263 Whitty Lane, Sultana, Alaska, 311",
+      "date": "1/6/2020"
+    },
+    {
+      "id": "6071cbcc1d401fb21f7139c7",
+      "patient": "Rosa Alvarez",
+      "doctor": "Vincent Pickett",
+      "email": "vincentpickett@zilphur.com",
+      "phone": "+1 (907) 573-3228",
+      "hopitaladdress": "832 Noll Street, Sehili, Nebraska, 559",
+      "date": "1/2/2020"
+    },
+    {
+      "id": "6071cbccda8760a0accca076",
+      "patient": "Stacey Smith",
+      "doctor": "Lorna Mckenzie",
+      "email": "lornamckenzie@zilphur.com",
+      "phone": "+1 (924) 500-2309",
+      "hopitaladdress": "772 Herzl Street, Whipholt, Alabama, 1903",
+      "date": "6/2/2020"
+    },
+    {
+      "id": "6071cbccda70509012d11ab3",
+      "patient": "Day Randolph",
+      "doctor": "Kerry Daniels",
+      "email": "kerrydaniels@zilphur.com",
+      "phone": "+1 (854) 575-2283",
+      "hopitaladdress": "669 Willoughby Street, Rowe, Arkansas, 3520",
+      "date": "7/2/2020"
+    },
+    {
+      "id": "6071cbcce7cc030f0a44ec31",
+      "patient": "Pierce Lara",
+      "doctor": "Kasey Hood",
+      "email": "kaseyhood@zilphur.com",
+      "phone": "+1 (923) 500-2128",
+      "hopitaladdress": "475 Gotham Avenue, Durham, Illinois, 2476",
+      "date": "1/8/2020"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+export const SET_RESOURCES = 'SET_RESOURCES';
+export const SET_RESOURCE = 'SET_RESOURCE';
+export const SET_SETTINGS = 'SET_SETTINGS';
+export const SET_RESOURCE_STATE = 'SET_RESOURCE_STATE';
+export const LOAD_FAILED = 'LOAD_FAILED';

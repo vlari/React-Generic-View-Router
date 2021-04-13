@@ -9,7 +9,7 @@ import NavBar from '../NavBar';
 import { CssBaseline } from '@material-ui/core';
 import routes from '../../routes';
 import Home from '../Home';
-//import MeetingProvider from '../../context/meeting/MeetingProvider';
+import HealthProvider from '../../context/healthProvider';
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -23,10 +23,9 @@ const useStyles = makeStyles((theme) => ({
 
 function App() {
   const styles = useStyles();
-  // defaultTheme will be used for private routes,
-  // publicTheme for public routes.
 
   return (
+    <HealthProvider>
       <BrowserRouter>
         <ThemeProvider theme={defaultTheme}>
           <div className={styles.root}>
@@ -52,6 +51,7 @@ function App() {
           </div>
         </ThemeProvider>
       </BrowserRouter>
+    </HealthProvider>
   );
 }
 

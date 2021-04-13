@@ -9,7 +9,7 @@ import useMediaQuery from '@material-ui/core/useMediaQuery';
 import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
 
-import homeBackgroundImage from '../../assets/homeImage.svg';
+import homeBackgroundImage from '../../assets/images/homeImage.svg';
 
 const useStyles = makeStyles((theme) => ({
   managerLayout: {
@@ -46,7 +46,7 @@ const Home = (props) => {
     if (!paramName) {
       history.push({ pathname: '/home' });
     }
-  }, []);
+  }, [paramName, history]);
 
   return (
     <Grid
@@ -90,7 +90,7 @@ const Home = (props) => {
                 >
                   Are you ready for health management?
                 </Typography>
-                <br/>
+                <br />
                 <Button variant='contained' color='secondary'>
                   Go
                 </Button>
